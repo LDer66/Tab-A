@@ -14,8 +14,8 @@
 
 **Table B.** Pseudo-label accuracy of high-confidence nodes on CS with 10 clients under Uniform noise rate 0.5 at different communication rounds.
 
-|CS|Client Index|||||||||||
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|CS|Client Index||||||||||
+|-|-|-|-|-|-|-|-|-|-|-|
 |Rounds|1|2|3|4|5|6|7|8|9|10|
 |30|0.852|0.847|0.824|0.819|0.826|0.814|0.817|0.831|0.843|0.822|
 |50|0.867|0.881|0.865|0.856|0.871|0.842|0.863|0.890|0.901|0.872|
