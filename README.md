@@ -1,4 +1,4 @@
-**Table A.** Performance comparison between FedRGL and FedRGL# under the same settings as Table 2 in the paper. N/U/P N/U/P denote no-label-noise/Uniform/Pair noise.
+**Table A.** Performance comparison between FedRGL and FedRGL# under the same settings as Table 2 in the paper.N/U/P denote no-label-noise/Uniform/Pair noise.
 
 |Dataset|Cora|||CiteSeer|||PubMed|||
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
