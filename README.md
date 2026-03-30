@@ -1,4 +1,4 @@
-#Table A. Performance comparison between FedRGL and FedRGL# under the same settings as Table 2 in the paper. FedRGL# uses the hybrid aggregation $w^{t+1}=\sum_{m=1}^{M}\frac{V_m H_m}{\sum_{j=1}^{M}V_j H_j}w_m^t$ denote the client data size and average predictive entropy, respectively. N/U/P #denote clean/Uniform/Pair noise.
+Table A. Performance comparison between FedRGL and FedRGL# under the same settings as Table 2 in the paper. FedRGL# uses the hybrid aggregation $w^{t+1}=\sum_{m=1}^{M}\frac{V_m H_m}{\sum_{j=1}^{M}V_j H_j}w_m^t$ denote the client data size and average predictive entropy, respectively. N/U/P N/U/P denote no-label-noise/Uniform/Pair noise.
 
 |Dataset|Cora|||CiteSeer|||PubMed|||
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
