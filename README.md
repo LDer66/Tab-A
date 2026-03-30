@@ -19,6 +19,35 @@
 |Rounds|1|2|3|4|5|6|7|8|9|10|
 |30|0.852|0.847|0.824|0.819|0.826|0.814|0.817|0.831|0.843|0.822|
 |50|0.867|0.881|0.865|0.856|0.871|0.842|0.863|0.890|0.901|0.872|
-|70|0.929|0.952|0.923|0.917|0.919|0.895|0.904|0.948|0.945|0.930|
+|70|0.929|0.952|0.923|0.917|0.919|0.895|0.904|0.948|0.945|0.930|  
+
+<p><strong>Table B.</strong> Pseudo-label accuracy of high-confidence nodes on CS with 10 clients under Uniform noise rate 0.5 at different communication rounds.</p>
+
+<table>
+  <tr>
+    <th>CS</th>
+    <th colspan="10" align="center">Client Index</th>
+  </tr>
+  <tr>
+    <th>Rounds</th>
+    <th>1</th><th>2</th><th>3</th><th>4</th><th>5</th>
+    <th>6</th><th>7</th><th>8</th><th>9</th><th>10</th>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>0.852</td><td>0.847</td><td>0.824</td><td>0.819</td><td>0.826</td>
+    <td>0.814</td><td>0.817</td><td>0.831</td><td>0.843</td><td>0.822</td>
+  </tr>
+  <tr>
+    <td>50</td>
+    <td>0.867</td><td>0.881</td><td>0.865</td><td>0.856</td><td>0.871</td>
+    <td>0.842</td><td>0.863</td><td>0.890</td><td>0.901</td><td>0.872</td>
+  </tr>
+  <tr>
+    <td>70</td>
+    <td>0.929</td><td>0.952</td><td>0.923</td><td>0.917</td><td>0.919</td>
+    <td>0.895</td><td>0.904</td><td>0.948</td><td>0.945</td><td>0.930</td>
+  </tr>
+</table>
 
 
